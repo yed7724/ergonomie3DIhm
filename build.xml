@@ -1,15 +1,15 @@
 <project>
 
-    <target name="premierTest">
+    <target name="clean">
         <delete dir="build"/>
     </target>
 
-    <target name="compile">
+    <target name="compile" depends="clean">
         <mkdir dir="build/classes"/>
         <javac srcdir="src" destdir="build/classes"/>
     </target>
 
-    <target name="jar">
+    <target name="jar" depends="compile">
         <mkdir dir="build/jar"/>
         <jar destfile="build/jar/coucou.jar" basedir="build/classes">
             <manifest>
