@@ -1,6 +1,6 @@
-package main.java.com.ubo.tp.twitub.ihm;
+package com.ubo.tp.twitub.ihm;
 
-import main.java.com.ubo.tp.twitub.controler.CtrlConnexion;
+import com.ubo.tp.twitub.controler.CtrlConnexion;
 
 import javax.swing.*;
 import java.awt.*;

@@ -1,10 +1,10 @@
-package main.java.com.ubo.tp.twitub.controler;
+package com.ubo.tp.twitub.controler;
 
-import main.java.com.ubo.tp.twitub.datamodel.IDatabase;
-import main.java.com.ubo.tp.twitub.datamodel.User;
-import main.java.com.ubo.tp.twitub.ihm.VueUserPage;
-import main.java.com.ubo.tp.twitub.observeurPattern.ObservbleInscriptionConnexion;
-import main.java.com.ubo.tp.twitub.observeurPattern.ObserveurInscription;
+import com.ubo.tp.twitub.datamodel.IDatabase;
+import com.ubo.tp.twitub.datamodel.User;
+import com.ubo.tp.twitub.ihm.VueUserPage;
+import com.ubo.tp.twitub.observeurPattern.ObservbleInscriptionConnexion;
+import com.ubo.tp.twitub.observeurPattern.ObserveurInscription;
 
 import javax.swing.*;
 import java.util.HashSet;

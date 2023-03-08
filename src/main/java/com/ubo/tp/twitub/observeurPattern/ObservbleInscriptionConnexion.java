@@ -1,4 +1,4 @@
-package main.java.com.ubo.tp.twitub.observeurPattern;
+package com.ubo.tp.twitub.observeurPattern;
 
 public interface ObservbleInscriptionConnexion {
 

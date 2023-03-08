@@ -1,6 +1,6 @@
-package main.java.com.ubo.tp.twitub.ihm;
+package com.ubo.tp.twitub.ihm;
 
-import main.java.com.ubo.tp.twitub.core.EntityManager;
+import com.ubo.tp.twitub.core.EntityManager;
 
 import java.awt.BorderLayout;
 import java.awt.event.ActionEvent;

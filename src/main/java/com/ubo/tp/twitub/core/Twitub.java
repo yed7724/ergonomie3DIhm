@@ -1,17 +1,17 @@
-package main.java.com.ubo.tp.twitub.core;
+package com.ubo.tp.twitub.core;
 
 import java.io.File;
 
-import main.java.com.ubo.tp.twitub.controler.CtrlConnexion;
-import main.java.com.ubo.tp.twitub.controler.CtrlInscription;
-import main.java.com.ubo.tp.twitub.datamodel.ConsoleObserveur;
-import main.java.com.ubo.tp.twitub.datamodel.Database;
-import main.java.com.ubo.tp.twitub.datamodel.IDatabase;
-import main.java.com.ubo.tp.twitub.datamodel.User;
-import main.java.com.ubo.tp.twitub.events.file.IWatchableDirectory;
-import main.java.com.ubo.tp.twitub.events.file.WatchableDirectory;
-import main.java.com.ubo.tp.twitub.ihm.*;
-import main.java.com.ubo.tp.twitub.observeurPattern.ObserveurInscription;
+import com.ubo.tp.twitub.controler.CtrlConnexion;
+import com.ubo.tp.twitub.controler.CtrlInscription;
+import com.ubo.tp.twitub.datamodel.ConsoleObserveur;
+import com.ubo.tp.twitub.datamodel.Database;
+import com.ubo.tp.twitub.datamodel.IDatabase;
+import com.ubo.tp.twitub.datamodel.User;
+import com.ubo.tp.twitub.events.file.IWatchableDirectory;
+import com.ubo.tp.twitub.events.file.WatchableDirectory;
+import com.ubo.tp.twitub.ihm.*;
+import com.ubo.tp.twitub.observeurPattern.ObserveurInscription;
 
 /**
  * Classe principale l'application.

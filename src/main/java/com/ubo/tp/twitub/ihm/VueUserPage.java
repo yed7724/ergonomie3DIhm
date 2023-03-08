@@ -1,4 +1,4 @@
-package main.java.com.ubo.tp.twitub.ihm;
+package com.ubo.tp.twitub.ihm;
 
 import java.awt.BorderLayout;
 import java.awt.Dimension;
@@ -12,7 +12,7 @@ import javax.swing.JPanel;
 import javax.swing.JTextField;
 import javax.swing.SwingConstants;
 
-import main.java.com.ubo.tp.twitub.datamodel.User;
+import com.ubo.tp.twitub.datamodel.User;
 
 public class VueUserPage extends JPanel{
     User user;

@@ -1,8 +1,8 @@
-package main.java.com.ubo.tp.twitub.controler;
+package com.ubo.tp.twitub.controler;
 
-import main.java.com.ubo.tp.twitub.datamodel.IDatabase;
-import main.java.com.ubo.tp.twitub.datamodel.Twit;
-import main.java.com.ubo.tp.twitub.datamodel.User;
+import com.ubo.tp.twitub.datamodel.IDatabase;
+import com.ubo.tp.twitub.datamodel.Twit;
+import com.ubo.tp.twitub.datamodel.User;
 
 public class CtrlAjoutTweet {
 

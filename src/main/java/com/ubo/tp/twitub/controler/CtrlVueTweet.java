@@ -1,6 +1,6 @@
-package main.java.com.ubo.tp.twitub.controler;
+package com.ubo.tp.twitub.controler;
 
-import main.java.com.ubo.tp.twitub.datamodel.Database;
+import com.ubo.tp.twitub.datamodel.Database;
 
 public class CtrlVueTweet {
 

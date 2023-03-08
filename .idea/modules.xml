@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ergonomie3DIhm.iml" filepath="$PROJECT_DIR$/ergonomie3DIhm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ergonomie3DIhm.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ergonomie3DIhm.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ergonomie3DIhm.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ergonomie3DIhm.test.iml" />
     </modules>
   </component>
 </project>

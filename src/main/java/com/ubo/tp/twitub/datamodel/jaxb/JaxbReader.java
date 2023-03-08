@@ -1,13 +1,13 @@
-package main.java.com.ubo.tp.twitub.datamodel.jaxb;
+package com.ubo.tp.twitub.datamodel.jaxb;
 
 import java.io.FileReader;
 
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.Unmarshaller;
 
-import main.java.com.ubo.tp.twitub.common.Constants;
-import main.java.com.ubo.tp.twitub.datamodel.jaxb.bean.twit.TwitXml;
-import main.java.com.ubo.tp.twitub.datamodel.jaxb.bean.user.UserXml;
+import com.ubo.tp.twitub.common.Constants;
+import com.ubo.tp.twitub.datamodel.jaxb.bean.twit.TwitXml;
+import com.ubo.tp.twitub.datamodel.jaxb.bean.user.UserXml;
 
 /**
  * Classe de lecture des fichiers XML.
