@@ -3,7 +3,7 @@ plugins {
 }
 
 group 'org.tarace'
-version 'taupinambour'
+version 'taupinamboure'
 
 repositories {
     mavenCentral()
